@@ -42,4 +42,5 @@ header .column span{
     border-radius: 30px;
     background-color: #4b4b4b;
     cursor: pointer;
+    position: relative;
 }
