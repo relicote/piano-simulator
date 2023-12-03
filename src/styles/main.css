@@ -52,5 +52,12 @@ header .column span{
     background-color: #8c8c8c;
     top: 50%;
     left: 0.3rem;
+    border-radius: inherit;
     position: absolute;
+    transform: translateY(-50%);
+}
+
+.keys-check input:checked:before{
+    left: 2.1rem;
+    background-color: #8c8c8c;
 }
