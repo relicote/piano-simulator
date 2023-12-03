@@ -15,3 +15,18 @@ body{
 
     border: 1px solid red;
 }
+
+header h2{
+    font-size: 1.6rem;
+}
+
+header .column {
+    display: flex;
+    align-items: center;
+}
+
+header .column span{
+    font-weight: 500;
+    margin-right: 15px;
+    font-size: 1.19rem;
+}
